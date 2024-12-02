@@ -1,0 +1,14 @@
+---
+name: mirror.ctn.co.id
+address:
+  http: http://mirror.ctn.co.id/almalinux/
+  https: https://mirror.ctn.co.id/almalinux/
+geolocation:
+  country: ID
+  state_province: DKI Jakarta
+  city: Jakarta
+update_frequency: 3h
+sponsor: PT Cloud Teknologi Nusantara
+sponsor_url: https://www.ctn.co.id
+email: diaz@ctn.co.id
+...
